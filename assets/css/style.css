@@ -2,11 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400&display=swap');
 
 /* Components */
-@import '/assets/css/header.css';
-@import '/assets/css/buttons.css';
-@import '/assets/css/main.css';
-@import '/assets/css/footer.css';
-@import '/assets/css/responsive-background.css';
-@import '/assets/css/bootstrap.css';
-@import '/assets/css/responsive-elements.css';
-
+@import './header.css';
+@import './buttons.css';
+@import './main.css';
+@import './footer.css';
+@import './responsive-background.css';
+@import './bootstrap.css';
+@import './responsive-elements.css';
