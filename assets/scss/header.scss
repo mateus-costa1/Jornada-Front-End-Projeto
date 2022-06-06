@@ -1,0 +1,30 @@
+header {
+  //section
+  section {
+    justify-content: space-between;
+    align-items: center;
+    //nav
+    nav {
+      //ul
+      ul {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items: center;
+        //li
+        li {
+          //a
+          a {
+            margin: 0 15px;
+            color: $color-primaria;
+          }
+          //end a
+        }
+        //end li
+      }
+      //end ul
+    }
+    //end nav
+  }
+  //end section
+}
